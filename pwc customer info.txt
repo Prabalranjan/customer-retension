@@ -1,0 +1,8 @@
+from total 7043 users 3488(49.52%) are female and 3555(50.48%) are male.
+
+2110(29.96%) users are dependet. 4933(70.04%) are not dependent.
+
+
+1142(16.21%) are senior citizen (more than 64 years old). 5901(83.79%) are not senior citizen.
+
+3402(48.3%) are registered as partner account. 3641(51.7%) are single users.

@@ -1,0 +1,23 @@
+From 5174 customers(that didn't leave the services in next month) 2.04k(28.92%) are not taking online security service. 
+1.41k(20.06%) people are not associated with any online services from PhoneNow.
+
+1.87k(26.52%) are not using Streaming TV.
+
+2.54k(36.08%) doesn't have MultipleLine, 2.12k(30.12%) have multipleLine.
+
+1.91k(27.06%) are using onlineBackup service, and 1.86k(26.34%) are not using. 
+
+2.03k(28.78%) are not using tech support.
+
+4.66k(66.19%) are using phone service.
+
+From the 1869 people who left PhoneNow 1.3k(18.42%) are using Fiber optic.
+only 0.46k(6.52) were using DSL connection. it means most of the people were using Optice fiber. either it has issue with speed,range,or price of package. 
+
+1.85k(26.22%) people doesn't use StreamingMovies service.
+this details is almost same as streamingTv service-- 1.87k(26.52%).
+most of the people who uses StreamingTv are using StramingMovies. 
+
+
+
+10080
